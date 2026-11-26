@@ -102,4 +102,3 @@ Users and sessions are stored in `data/users` and `data/sessions` as JSON. Sessi
 - Passwords are stored in plain text. This is demo data only.
 - `heavy-server/lib/prime-generator.ts` is a copy of `prime-generator/prime-generator.ts`, kept so that `heavy-server` stays a self-contained project.
 - Static file paths are relative to the working directory.
-````
